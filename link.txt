@@ -1,0 +1,6 @@
+https://github.com/pjreddie/darknet
+https://github.com/arunponnusamy/object-detection-opencv
+#yolo weights
+https://pjreddie.com/media/files/yolov3.weights
+
+#https://github.com/arunponnusamy/object-detection-opencv/blob/master/yolov3.txt
